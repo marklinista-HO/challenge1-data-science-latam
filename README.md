@@ -47,7 +47,9 @@ Su informe debe estar bien estructurado, con una introducción que explique el p
 
 <h2>Conjunto de Datos</h2>
 
-Antes de pasar a análisis detallados, es esencial explorar el conjunto de datos para comprender su estructura y contenido. Este paso le permite identificar patrones, inconsistencias y las columnas más relevantes para los siguientes pasos.
+A continuación presento la **Estructura de datos:** del conjunto de datos del archivo CSV:
+
+el conjunto de datos para comprender su estructura y contenido. Este paso le permite identificar patrones, inconsistencias y las columnas más relevantes para los siguientes pasos.
 
 **Estructura de datos:**
 El conjunto de datos incluye la siguiente información:
