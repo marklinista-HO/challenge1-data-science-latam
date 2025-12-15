@@ -1,24 +1,18 @@
 
 <h1>Reto "Alura Store"</h1>
-El juego del Amigo Secreto consiste en que de una lista de nombres de amigos, el sistema haga un sorteo aleatorio y dé un nombre de la lista.  Este nombre será el  "Amigo Secreto".
-
-<h2> Como se juega</h2>
 
 
 <h2> ********************</h2>
 
+Durante este desafío, se ayudá al Sr. Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento. Se analizarán datos de ventas, rendimiento y reseñas de las 4 tiendas de Alura Store. El objetivo es identificar la tienda menos eficiente y presentar una recomendación final basada en los datos.
 
-# **¡Bienvenidos al primer desafío!**
+## Lo que encontrará en el archivo de colab:
 
-Durante este desafío, ayudarás al Sr. Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento. Para ello, analizarás datos de ventas, rendimiento y reseñas de las 4 tiendas de Alura Store. El objetivo es identificar la tienda menos eficiente y presentar una recomendación final basada en los datos.
+- Con la biblioteca de Pandas, la carga y manipulación de los datos desde una archivo CSV.
+- Con la biblioteca Maptplotlib, podrá ver visualizaciones de los datos.
+- Análisis de métricas como ingresos, reseñas y rendimiento de ventas.
 
-## Lo que practicarás:
-
-- Cargue y manipule datos CSV con la biblioteca Pandas.
-- Cree visualizaciones de datos con la biblioteca Matplotlib.
-- Analice métricas como ingresos, reseñas y rendimiento de ventas.
-
-## Requisitos:
+## Requisitos que solicita Alura Store:
 
 - **Analizar datos de la tienda:**
   - Debes evaluar información como los ingresos, las categorías más vendidas, las reseñas de los clientes, los productos más vendidos y el envío promedio.
