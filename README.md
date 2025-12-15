@@ -15,20 +15,16 @@ Durante este desafío, se ayudá al Sr. Juan a decidir qué tienda de su cadena 
 ## Requisitos que solicita Alura Store:
 
 - **Analizar datos de la tienda:**
-  - Debes evaluar información como los ingresos, las categorías más vendidas, las reseñas de los clientes, los productos más vendidos y el envío promedio.
-
+  - Se deben evaluar los ingresos, las categorías más vendidas, las reseñas de los clientes, los productos más vendidos y el envío promedio.
 ‌
 
 - **Crear gráficos para visualización:**
-  - Decide qué tipos de gráficos utilizar para presentar los resultados de forma clara y visual.
-  - Mínimo de 3 gráficos diferentes, que pueden incluir gráficos de barras, circulares, de dispersión y otros.
-
+  - Se deben utilizar gráficas para presentar los resultados de forma clara y visual.
+  - Al menos 3 diferentes tipos de gráficos.
 ‌
 
-- Enviar una recomendación:
-  - Después del análisis, escriba un texto explicando a qué tienda debería vender el Sr. João y por qué, basándose en los datos presentados.
-
-¡Éxito en tu proyecto!
+- **Enviar una recomendación:**
+  - Después del análisis, escribir una recomendación explicando a qué tienda debe vender el Sr. João y por qué, basándose en los datos presentados.
 
 
 
