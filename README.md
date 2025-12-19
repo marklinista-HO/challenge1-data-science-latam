@@ -11,6 +11,7 @@ Durante este desafío, se ayudá al Sr. Juan a decidir qué tienda de su cadena 
 - Con la biblioteca de Pandas, la carga y manipulación de los datos desde una archivo CSV.
 - Con la biblioteca Maptplotlib, podrá ver visualizaciones de los datos.
 - Análisis de métricas como ingresos, reseñas y rendimiento de ventas.
+- Informe de resultado con recomendación para el Sr. Juan.
 
 ## Requisitos que solicita Alura Store:
 
@@ -29,16 +30,13 @@ Durante este desafío, se ayudá al Sr. Juan a decidir qué tienda de su cadena 
 
 
 <h2> **********************</h2>
-
-Con base en los análisis realizados y los gráficos generados, es momento de sintetizar sus hallazgos en un **informe final**. Dentro de tu Colab, deberás redactar un texto explicando a qué tienda debe vender el Sr. Juan, teniendo en cuenta todos los factores analizados, como:
+Los siguientes factores se tomaron en cuenta para el análisis:
 
 - Los **ingresos totales** de las tiendas.
 - Las **categorías de productos** más y menos vendidas.
 - Las **calificaciones promedio** de los clientes por tienda.
 - Los **productos más y menos vendidos**.
 - El **coste de envío promedio** para cada tienda.
-
-En su informe, incluya la justificación de su decisión, respaldada por el análisis y las visualizaciones que generó. Explicar, de forma clara y objetiva, las razones por las que una tienda destaca (o no) en relación a las demás, considerando las fortalezas y debilidades de cada una.
 
 Su informe debe estar bien estructurado, con una introducción que explique el propósito del análisis, un desarrollo con la presentación de datos y gráficos, y una conclusión recomendando la tienda que se debe vender y justificando la elección.
 
@@ -58,8 +56,6 @@ El conjunto de datos incluye la siguiente información:
 - **Evaluación de compra**: Comentarios de clientes.
 - **Tipo de Pago y Cuotas**: Métodos utilizados por los clientes.
 - **Coordenadas Geográficas**: Ubicación de las transacciones.
-
-💡¡Explorar y comprender bien estos datos es el primer paso hacia un análisis eficiente!
 
 
 <h2> **********************</h2>
