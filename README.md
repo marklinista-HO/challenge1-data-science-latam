@@ -28,8 +28,7 @@ Durante este desafío, se ayudá al Sr. Juan a decidir qué tienda de su cadena 
   - Después del análisis, escribir una recomendación explicando a qué tienda debe vender el Sr. João y por qué, basándose en los datos presentados.
 
 
-
-<h2> **********************</h2>
+## Análisis de los datos:
 Los siguientes factores se tomaron en cuenta para el análisis:
 
 - Los **ingresos totales** de las tiendas.
@@ -40,8 +39,6 @@ Los siguientes factores se tomaron en cuenta para el análisis:
 
 Su informe debe estar bien estructurado, con una introducción que explique el propósito del análisis, un desarrollo con la presentación de datos y gráficos, y una conclusión recomendando la tienda que se debe vender y justificando la elección.
 
-
-<h2> **********************</h2>
 
 <h2>Conjunto de Datos</h2>
 
@@ -56,10 +53,3 @@ El conjunto de datos incluye la siguiente información:
 - **Evaluación de compra**: Comentarios de clientes.
 - **Tipo de Pago y Cuotas**: Métodos utilizados por los clientes.
 - **Coordenadas Geográficas**: Ubicación de las transacciones.
-
-
-<h2> **********************</h2>
-
-
-
-
