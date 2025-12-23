@@ -9,7 +9,7 @@ Durante este desafío, se ayudá al Sr. Juan a decidir qué tienda de su cadena 
 ## Lo que encontrará en el archivo de colab:
 
 - Con la biblioteca de Pandas, la carga y manipulación de los datos desde una archivo CSV.
-- Con la biblioteca Maptplotlib, podrá ver visualizaciones de los datos.
+- Con la biblioteca Maptplotlib, podrá ver visualizaciones de los datos en gráficas.
 - Análisis de métricas como ingresos, reseñas y rendimiento de ventas.
 - Informe de resultado con recomendación para el Sr. Juan.
 
