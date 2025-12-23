@@ -40,7 +40,7 @@ Los siguientes factores se tomaron en cuenta para el análisis:
 
 <h2>Conjunto de Datos</h2>
 
-A continuación presento la **Estructura de datos:** del conjunto de datos del archivo CSV:
+A continuación presento la **Estructura de datos** del conjunto de datos en el archivo CSV:
 
 **Estructura de datos:**
 El conjunto de datos incluye la siguiente información:
